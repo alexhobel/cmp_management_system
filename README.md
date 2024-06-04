@@ -1,6 +1,9 @@
 # Consent Management Platform Management System
 
 ## Table of Contents
+- [Requirement Engineering](#requirement-engineering)
+  - [Task Oriented](#task-oriented)
+  - [Artifacts](#artifacts)
 - [System Architecture](#system-architecture)
   - [Component Diagram](#component-diagram)
 - [Frontend](#frontend)
@@ -9,7 +12,11 @@
   - [Backend Description](#backend-description)
 - [Database](#database)
   - [Entity Relationship Diagram](#er-diagram)
+ 
+## Requirement Engineering
+### Task Oriented
 
+### Artifacts
 ## System Architecture
 ### Component Diagram
 
