@@ -22,7 +22,7 @@
 
 The Task Oriented Requirement Engineering framework was used for the requirements analysis, as the stakeholders' work tasks are supported by the system and an analysis of the as-is state is therefore essential. The as-is state of the work tasks then results in the requirements that the system must implement in order to support the stakeholders. The framework is divided into four levels of abstraction, which are passed through various decision points. Different artifacts are defined for each decision point, and the As-Is state is transferred to the To-Be state by defining the artifacts and moving down the abstraction levels. The artifacts were all created and managed on a whiteboard application: 
 
-![MIRO Requirement Board]([https://www.example.com](https://miro.com/app/board/uXjVNY1zves=/?share_link_id=21302349642))
+https://miro.com/app/board/uXjVNY1zves=/?share_link_id=21302349642
 
 ### Functional Requirements
 ### Non Functional Requirements
