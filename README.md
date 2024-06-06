@@ -1,4 +1,5 @@
 # Consent Management Platform Management System
+# Project of my Bachelor Thesis
 
 ## Table of Contents
 - [Requirement Engineering](#requirement-engineering)
