@@ -1,5 +1,4 @@
-# Consent Management Platform Management System
-# Project of my Bachelor Thesis
+# Consent Management Platform Management System - Bachelor Thesis Project
 
 ## Table of Contents
 - [Requirement Engineering](#requirement-engineering)
@@ -26,7 +25,24 @@ The Task Oriented Requirement Engineering framework was used for the requirement
 https://miro.com/app/board/uXjVNY1zves=/?share_link_id=21302349642
 
 ### Functional Requirements
+
+| ID  | Description |
+|-----|--------------|
+| FA1 | The system shall implement the creation of new customers. |
+| FA2 | The system shall provide statistics of the CMP through effective visualization. |
+| FA3 | The system shall effectively visualize a period of consent rates per CMP customer. |
+| FA4 | The system must provide an overview of all CMP customers. |
+| FA5 | The system must display the consent IDs per customer in a tabular format. |
+
+
 ### Non Functional Requirements
+
+| ID   | Description |
+|------|--------------|
+| NFA1 | The entire process of generating, storing, and transmitting the IDs must comply with data protection laws, especially the GDPR. |
+|      | NFAs according to ISO-25000 |
+
+
 ## System Architecture
 ### Component Diagram
 
